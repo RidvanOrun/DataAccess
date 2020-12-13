@@ -22,5 +22,5 @@ Veri tabanındaki table'ları class'lara, kolonları property'lere , kayıtları
 
 Entity Framework'un yetenekleri Database First, Code First, Model First olmak üzere 3 farklı biçimde uygulanabilmektedir.
 
-# Yukarıda bahsettiğim teknolojileri daha iyi anlamak için gitbook hesabımdaki çalışmamı inceleyebilirsiniz. https://app.gitbook.com/@ridvanorun/s/entity-framework/~/drafts/-MOSR0MxReGXOO-pDRcG/
+Yukarıda bahsettiğim teknolojileri daha iyi anlamak için gitbook hesabımdaki çalışmamı inceleyebilirsiniz. https://app.gitbook.com/@ridvanorun/s/entity-framework/~/drafts/-MOSR0MxReGXOO-pDRcG/
 
