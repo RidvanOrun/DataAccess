@@ -9,7 +9,7 @@ Lab3 => Code First yönetemi ile "Telefon Rehberi" uygulaması yapılmıştır.
 
 Lab4 => Code First yönetemi ile NorthWind database i ayağa kaldırılmıştır.
 
-Bu teknolojinin anlaşılması için öncelikli Object Relational Mapping'in  ve devamında Entity Framework'ün 3 temel yeteneği olan Database First, Code First ve Model First yöntemlerinin bilinmesi gerekmektedir.
+Bu teknolojinin tam olarak anlaşılması için öncelikli Object Relational Mapping'in  ve devamında Entity Framework'ün 3 temel yeteneği olan Database First, Code First ve Model First yöntemlerinin anlaşılması gerekmektedir.
 
 # Object Relational Mapping (ORM);
 
