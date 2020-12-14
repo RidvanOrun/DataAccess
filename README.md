@@ -24,5 +24,5 @@ Tüm dillerin kendilerine göre ORM Ferameworkleri bulunmaktadır.
 
 Entity Framework'un yetenekleri Database First, Code First, Model First olmak üzere 3 farklı biçimde uygulanabilmektedir.
 
-  Yukarıda bahsettiğim teknolojileri daha iyi anlamak için gitbook hesabımdaki çalışmamı inceleyebilirsiniz. https://app.gitbook.com/@ridvanorun/s/entity-framework/~/drafts/-MOUcWgxM6uk7AW_D30s/
+  Yukarıda bahsettiğim teknolojileri daha iyi anlamak için gitbook hesabımdaki çalışmamı inceleyebilirsiniz. https://app.gitbook.com/@ridvanorun/s/entity-framework/~/drafts/-MOUeTffyZKA8Y2_BkEc/
 
