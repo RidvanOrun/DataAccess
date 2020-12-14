@@ -18,6 +18,7 @@ Bu teknolojinin tam olarak anlaşılması için öncelikli Object Relational Map
 Tüm dillerin kendilerine göre ORM Ferameworkleri bulunmaktadır.
 
 ## Entity Framework;
+![Image of EF](https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/crud-operation-using-dapper-in-c-sharp/Images/CRUD%20Operation%20Using%20Dapper2.png)
 
   Veri tabanındaki table'ları class'lara, kolonları property'lere , kayıtları objelere dönüştürerek uygulmanın direkt olarak veritabanına erişmesine gerek kalmadan tüm veri tabanı işlemlerini gerçekleştirir. Böylece veritabanındaki işlemler SQL kodları yazılmadan Linq isimli sorgular ile kolayca yapılabilir.Entity Framework bir ORM aracıdır ve  Ado.net mantığı ile çalışır. 
 
