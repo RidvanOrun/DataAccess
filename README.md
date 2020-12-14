@@ -3,7 +3,7 @@ Bu projede "DataAccessSolution" başlığı altında örneklerle Entity Framewor
 
 **Lab1** => DataBase First yönetimin ve Linq To temel sorguları anlatılmıştır.
 
-**Lab2** => Database First yönetimi ile karışık Linq To örnekler yapılmıştır.
+**Lab2** => Database First yönetimi ile karışık Linq To örnekler yapılmıştır. 
 
 **Lab3** => Code First yönetemi ile "Telefon Rehberi" uygulaması yapılmıştır.
 
