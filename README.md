@@ -13,7 +13,7 @@ Bu teknolojinin anlaşılması için öncelikli Object Relational Mapping'in  ve
 
 # Object Relational Mapping (ORM);
 
-  Veritabanı ile uygulama arasında köprü görevi görür. Veri tabanındaki table'ları class'lara, kolonları property'lere , kayıtları objelere dönüştürerek uygulmanın direkt olarak veritabanına erişmesine gerek kalmadan tüm veri tabanı işlemlerini gerçekleştiren bir yapıdır. ORM ler ADO.NEt prencipleri ile çalışırlar.
+  Veritabanı ile uygulama arasında köprü görevi görür. Veri tabanındaki table'ları class'lara, kolonları property'lere , kayıtları objelere dönüştürerek uygulmanın direkt olarak veritabanına erişmesine gerek kalmadan tüm veri tabanı işlemlerini gerçekleştiren bir yapıdır. ORM ler ADO.NET prensipleri ile çalışırlar.
 Tüm dillerin kendilerine göre ORM Ferameworkleri bulunmaktadır.
 
 # Entity Framework;
