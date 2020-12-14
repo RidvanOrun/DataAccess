@@ -1,7 +1,7 @@
 # DataAccessSolutionEF
 Bu projede "DataAccessSolution" başlığı altında örneklerle Entity Framework teknolojisi anlatılmıştır. 
 
- [**Lab1**] (https://github.com/RidvanOrun/DataAccessSolut-onEF/tree/master/Lab1_DbFirstExamplesLinqTo) => DataBase First yönetimin ve Linq To temel sorguları anlatılmıştır.
+ [**Lab1**](https://github.com/RidvanOrun/DataAccessSolut-onEF/tree/master/Lab1_DbFirstExamplesLinqTo) => DataBase First yönetimin ve Linq To temel sorguları anlatılmıştır.
 
 **Lab2** => Database First yönetimi ile karışık Linq To örnekler yapılmıştır. 
 
