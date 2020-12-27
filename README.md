@@ -12,13 +12,13 @@ Bu projede "DataAccessSolution" başlığı altında örneklerle Entity Framewor
 Bu teknolojinin tam olarak anlaşılması için öncelikli Object Relational Mapping'in  ve devamında Entity Framework'ün 3 temel yeteneği olan Database First, Code First ve Model First yöntemlerinin anlaşılması gerekmektedir.
 
 ## Object Relational Mapping (ORM);
-![Image of ORM](https://i1.wp.com/www.kadinyazilimci.com/wp-content/uploads/2014/11/1281950302290.jpg)
+![Image of ORM](https://gblobscdn.gitbook.com/assets%2F-MO29WVIoUuc3uBPrU4f%2F-MOUTWRxdN1GWFPVU-yc%2F-MOUWuNxwI9TSP1Klac1%2FORM.jpg?alt=media&token=4e750631-0c7d-48a7-aaa8-56fe928ff7c3)
 
   Veritabanı ile uygulama arasında köprü görevi görür. Veri tabanındaki table'ları class'lara, kolonları property'lere , kayıtları objelere dönüştürerek uygulmanın direkt olarak veritabanına erişmesine gerek kalmadan tüm veri tabanı işlemlerini gerçekleştiren bir yapıdır. ORM ler ADO.NET prensipleri ile çalışırlar.
 Tüm dillerin kendilerine göre ORM Ferameworkleri bulunmaktadır.
 
 ## Entity Framework;
-![Image of EF](https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/crud-operation-using-dapper-in-c-sharp/Images/CRUD%20Operation%20Using%20Dapper2.png)
+![Image of EF](https://gblobscdn.gitbook.com/assets%2F-MO29WVIoUuc3uBPrU4f%2F-MO7ZrMg_nDNetG8obIg%2F-MO7_HAGRKwiPo2_rLtI%2FEntityFramework.png?alt=media&token=2dd2d1f2-0be8-49f9-bd1c-e8f95120e604)
 
   Veri tabanındaki table'ları class'lara, kolonları property'lere , kayıtları objelere dönüştürerek uygulmanın direkt olarak veritabanına erişmesine gerek kalmadan tüm veri tabanı işlemlerini gerçekleştirir. Böylece veritabanındaki işlemler SQL kodları yazılmadan Linq isimli sorgular ile kolayca yapılabilir.Entity Framework bir ORM aracıdır ve  Ado.net mantığı ile çalışır. 
 
